@@ -28,7 +28,7 @@ This project uses the following Node.js packages:
 3. Make sure [Node.js](https://nodejs.org/) is installed (version 18+ recommended).
 4. Install dependencies:
 
-```bash
+
 npm install chalk cowsay figlet gradient-string boxen dayjs
 
 Add "type": "module" to package.json to enable ES Module syntax:
@@ -37,7 +37,6 @@ Add "type": "module" to package.json to enable ES Module syntax:
   "type": "module"
 }
 
-```
 
 ▶️ How to Run the Project
 
