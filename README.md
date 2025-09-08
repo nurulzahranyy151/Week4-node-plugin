@@ -37,6 +37,8 @@ Add "type": "module" to package.json to enable ES Module syntax:
   "type": "module"
 }
 
+```
+
 ▶️ How to Run the Project
 
 Open terminal in the project folder.
