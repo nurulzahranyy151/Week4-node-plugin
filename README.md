@@ -50,6 +50,6 @@ To pass your name and NIM as input arguments:
 node index.js "YourName - YourNIM"
 
 example Output:
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![Project Output](output/image.png)
+![Project Output 2](output/image-1.png)
+![Project Output 3](output/image-2.png)
