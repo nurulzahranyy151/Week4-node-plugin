@@ -1,5 +1,6 @@
 # Week4-node-plugin
-# Tugas Week 4 Pemrograman Lanjut Web 2025 
+# 4th Week Task 
+# Pemrograman Lanjut Web 2025 
 
 ## Nurul Qalbi Zahrani - F1D022150
 ---
