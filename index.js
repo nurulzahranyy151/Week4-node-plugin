@@ -22,18 +22,10 @@ console.log(gradient.pastel(figlet.textSync("Qalbi", { horizontalLayout: 'full' 
 console.log(gradient.pastel(figlet.textSync("Zahrani", { horizontalLayout: 'full' })));
 
 
-const boxedInfo = boxen(
-  `${chalk.yellow.bold('Name:')} ${fullName}\n${chalk.yellow.bold('NIM:')} ${studentID}`,
-  {
-    padding: 1,
-    margin: 1,
-    borderStyle: 'double',
-    borderColor: 'green',
-    align: 'center'
-  }
-);
+const boxedInfo = boxen(`${chalk.yellow.bold('Name:')} ${fullName}\n${chalk.yellow.bold('NIM:')}${studentID}`,{padding: 1,margin: 1,borderStyle: 'double',borderColor: 'green',align: 'center'});
 console.log(boxedInfo);
 console.log(chalk.cyanBright(`Current Date & Time: ${now}`));
+
 
 const args = process.argv.slice(2);
 if (args.length > 0) {console.log(chalk.magentaBright(`\nHi ${args.join(' ')}, welcome to the Node.js plugin assignment demo!`));}
