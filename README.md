@@ -2,13 +2,16 @@
 # Tugas Week 4 Pemrograman Lanjut Web 2025 
 
 ## Nurul Qalbi Zahrani - F1D022150
+---
+Welcomeeeeeee!!!
 
-This project is a Node.js script that displays student information, motivational quotes, ASCII art, and a fun squirrel (`cowsay`) output.  
-It also accepts input arguments from the terminal to greet a user dynamically.
+This project is a Node.js script that displays student name and ID, motivational quotes by Steve Jobs, ASCII art, display current date & time, with a fun squirrel output.  
+It also accepts input arguments from the terminal to greet a user dynamically!!
+I use NPM for this and ESModule for this task!S
 
 ---
 
-## 📦 Dependencies
+## How to Install Dependencies?!
 
 This project uses the following Node.js packages:
 
@@ -21,24 +24,21 @@ This project uses the following Node.js packages:
 
 ---
 
-## 🛠️ Installation Steps
+## Follow This Installation Steps!!
 
 1. Clone the repository or download the project files.
 2. Open a terminal in the project folder.
-3. Make sure [Node.js](https://nodejs.org/) is installed (version 18+ recommended).
+3. Make sure [Node.js](https://nodejs.org/) is installed!!!!
 4. Install dependencies:
-
 
 npm install chalk cowsay figlet gradient-string boxen dayjs
 
 Add "type": "module" to package.json to enable ES Module syntax:
-
 {
   "type": "module"
 }
 
-
-▶️ How to Run the Project
+## ️ How to Run the Project?!
 
 Open terminal in the project folder.
 
@@ -46,6 +46,7 @@ Run the project:
 
 node index.js
 
+## Note:
 To pass your name and NIM as input arguments:
 
 node index.js "YourName - YourNIM"
@@ -54,3 +55,5 @@ example Output:
 ![Project Output](output/image.png)
 ![Project Output 2](output/image-1.png)
 ![Project Output 3](output/image-2.png)
+
+# That's it! Thank youuuu!!
